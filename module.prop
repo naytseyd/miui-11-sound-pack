@@ -1,0 +1,7 @@
+id=miui-11-sounds
+name=MIUI 11 Sound Pack
+version=1.0
+versionCode=1
+author=NaytSeyd, Ulgen
+description=The purpose of this module is to install MIUI 11 system sounds on your device
+minMagisk=17000
